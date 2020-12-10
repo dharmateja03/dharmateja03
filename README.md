@@ -1,6 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning Data Science!
-https://github-readme-stats.vercel.app/api?username=dharmateja03
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dharmateja03)](https://github.com/dharmateja03/github-readme-stats)
 
 <!--
 **dharmateja03/dharmateja03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
