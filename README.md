@@ -1,4 +1,4 @@
-## Hey Developer  👋 !!!
+## Hey Developers  👋 !!!
 I’m currently learning Data Science and Full Stack Devlopment!
 ### 🌱 What I’m currently learning?
 
