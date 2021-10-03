@@ -5,7 +5,7 @@ I’m currently learning Data Science and Full Stack Devlopment!
 Recently, I started working on JavaScript.
 ### 🤔 What do I do? 
 
- - :green_book: I am a third year undergraduate passionate about problem solving and new tech
+ - :green_book: I am a Final year undergraduate passionate about problem solving and new tech
  - :green_book: Looking for interesting opportunities in Data Science and in web as a full-stack web developer.
 
 
