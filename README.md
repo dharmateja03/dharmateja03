@@ -1,4 +1,4 @@
-# [Dharma Teja Samudrala]
+# Dharma Teja Samudrala
 ## Data Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
