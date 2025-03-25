@@ -1,4 +1,4 @@
-# [Your Name]
+# [Dharma Teja Samudrala]
 ## Data Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
@@ -21,21 +21,11 @@ Data Engineer with expertise in building robust data pipelines, ETL processes, a
 
 ## 📊 Featured Projects
 
-### [Project Name 1](https://github.com/yourusername/project1)
-Brief description of what the project does and what technologies were used. Highlight the challenges you overcame and the impact of your solution.
+### [Reddit ETL Pipeline]([https://github.com/yourusername/project1](https://github.com/dharmateja03/reddit-ETL-Pipeline))
+This project implements a comprehensive data pipeline that extracts data from Reddit, processes it, and makes it available for analytics. The pipeline extracts posts from selected subreddits, loads them into AWS infrastructure, transforms the data using dbt, and visualizes insights using Power BI.
 
-```python
-# Sample code snippet showing a key feature
-def data_pipeline_example():
-    # Your code here
-    pass
-```
 
-### [Project Name 2](https://github.com/yourusername/project2)
-Brief description of what the project does and what technologies were used. Highlight the challenges you overcame and the impact of your solution.
 
-### [Project Name 3](https://github.com/yourusername/project3)
-Brief description of what the project does and what technologies were used. Highlight the challenges you overcame and the impact of your solution.
 
 ## 📈 GitHub Stats
 
@@ -49,14 +39,14 @@ Brief description of what the project does and what technologies were used. High
 - AWS Certified Data Analytics - Specialty
 
 ## 💡 Recent Blog Posts
-- [Title of Blog Post 1](link-to-post)
+- [Window Functions: Powerful Tools for Data Analysis]([link-to-post](https://medium.com/@dharmatejasamudrala/window-functions-powerful-tools-for-data-analysis-961a345f068a))
 
 
 ## 📫 How to Reach Me
-- Email: your.email@example.com
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourusername/)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- Email: dharma.samudrala21@gmail.com
+- LinkedIn: [Dharma Teja Samudrala]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/dharmatejasamudrala/))
+
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [dharmateja03](https://github.com/dharmateja03)
