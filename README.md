@@ -35,11 +35,7 @@ This project implements a comprehensive data pipeline that extracts data from Re
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmateja03&layout=compact&theme=dark)
 
-## 📜 Certifications
-- AWS Certified Data Analytics - Specialty
 
-## 💡 Recent Blog Posts
-- [Window Functions: Powerful Tools for Data Analysis]([link-to-post](https://medium.com/@dharmatejasamudrala/window-functions-powerful-tools-for-data-analysis-961a345f068a))
 
 
 ## 📫 How to Reach Me
