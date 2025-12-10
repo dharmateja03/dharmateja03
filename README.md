@@ -1,5 +1,5 @@
 # Dharma Teja Samudrala
-## Data Engineer
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourusername/)
@@ -18,14 +18,6 @@ Data Engineer with expertise in building robust data pipelines, ETL processes, a
 - **Version Control**: Git, GitHub
 - **CI/CD**: Jenkins, GitHub Actions
 - **Containerization**: Docker, Kubernetes
-
-## 📊 Featured Projects
-
-### [Reddit ETL Pipeline]([https://github.com/yourusername/project1](https://github.com/dharmateja03/reddit-ETL-Pipeline))
-This project implements a comprehensive data pipeline that extracts data from Reddit, processes it, and makes it available for analytics. The pipeline extracts posts from selected subreddits, loads them into AWS infrastructure, transforms the data using dbt, and visualizes insights using Power BI.
-
-
-
 
 ## 📈 GitHub Stats
 
