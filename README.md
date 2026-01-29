@@ -2,30 +2,12 @@
 <h1 align="center">Dharma Teja Samudrala</h1>
 
 <p align="center">
-  <b>Data Engineer</b> · New York
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/dharmatejasamudrala/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/dharmateja03/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/u/dharmatejasamudrala/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://x.com/dharmateja03"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
   <a href="mailto:dharma.samudrala21@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
-
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharmateja03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmateja03&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmateja03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</p>
-
----
 
 ### 🛠️ Tech Stack
 
@@ -36,10 +18,6 @@
 ---
 
 ### 🚀 Projects
-
-**Data Engineering**
-- [reddit-ETL-Pipeline](https://github.com/dharmateja03/reddit-ETL-Pipeline) — Reddit → AWS → dbt → Power BI
-- [Liquidation_Monitor](https://github.com/dharmateja03/Liquidation_Monitor) — Real-time crypto liquidation prediction
 
 **Go**
 - [gRPC-GoMicroservicesMesh](https://github.com/dharmateja03/gRPC-GoMicroservicesMesh) — Microservices with gRPC
@@ -61,6 +39,10 @@
 **DSA**
 - [LeetCode](https://github.com/dharmateja03/LeetCode) — 500+ solutions in Python
 
+
+**Data Engineering**
+- [reddit-ETL-Pipeline](https://github.com/dharmateja03/reddit-ETL-Pipeline) — Reddit → AWS → dbt → Power BI
+- [Liquidation_Monitor](https://github.com/dharmateja03/Liquidation_Monitor) — Real-time crypto liquidation prediction
 ---
 
 <p align="center">
