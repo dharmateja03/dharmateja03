@@ -31,10 +31,10 @@
 - [KokoroAI](https://github.com/dharmateja03/KokoroAI) — AI meditation generator
 - [terminal-typist](https://github.com/dharmateja03/terminal-typist) — Terminal typing practice
 
-**Hackathons**
-- [COMS-Hackthon-25](https://github.com/dharmateja03/COMS-Hackthon-25)
-- [Dandy-Hack-25](https://github.com/dharmateja03/Dandy-Hack-25)
-- [CalBot](https://github.com/dharmateja03/CalBot) — Health tracker with ML
+**Hackathons 2x Winner**
+- [COMS-Hackthon-25](https://github.com/dharmateja03/COMS-Hackthon-25) - Best use of AI winner 
+- [Dandy-Hack-25](https://github.com/dharmateja03/Dandy-Hack-25) - Winner
+- [CalBot](https://github.com/dharmateja03/CalBot) — Take control of your Time
 
 **DSA**
 - [LeetCode](https://github.com/dharmateja03/LeetCode) — 500+ solutions in Python
