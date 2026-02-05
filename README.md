@@ -16,6 +16,10 @@
 </p>
 
 ---
+**Hackathons 2x Winner**
+- [COMS-Hackthon-25](https://github.com/dharmateja03/COMS-Hackthon-25) - 10x your team productivity ,reduce meetings -Best use of AI winner 
+- [Dandy-Hack-25](https://github.com/dharmateja03/Dandy-Hack-25) - Winner
+- [CalBot](https://github.com/dharmateja03/CalBot) — Take control of your Time
 
 ### 🚀 Projects
 
@@ -31,10 +35,7 @@
 - [KokoroAI](https://github.com/dharmateja03/KokoroAI) — AI meditation generator
 - [terminal-typist](https://github.com/dharmateja03/terminal-typist) — Terminal typing practice
 
-**Hackathons 2x Winner**
-- [COMS-Hackthon-25](https://github.com/dharmateja03/COMS-Hackthon-25) - Best use of AI winner 
-- [Dandy-Hack-25](https://github.com/dharmateja03/Dandy-Hack-25) - Winner
-- [CalBot](https://github.com/dharmateja03/CalBot) — Take control of your Time
+
 
 **DSA**
 - [LeetCode](https://github.com/dharmateja03/LeetCode) — 500+ solutions in Python
