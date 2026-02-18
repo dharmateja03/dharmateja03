@@ -16,9 +16,10 @@
 </p>
 
 ---
-**Current Project**
+### Current Projects 
 -[IndieFinance](https://www.indiefinance.app/) - Income Tracking + Tax Planning + 1099 Reconciliation. Your Quarterly Tax Autopilot.
 -[UniBay] - Facebook MarketPlace for students by Students
+---
 **Hackathons 2x Winner**
 - [COMS-Hackthon-25](https://github.com/dharmateja03/COMS-Hackthon-25) - 10x your team productivity ,reduce meetings -Best use of AI winner 
 - [Dandy-Hack-25](https://github.com/dharmateja03/Dandy-Hack-25) - Winner
