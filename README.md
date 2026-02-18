@@ -1,55 +1,59 @@
-# Dharma Teja Samudrala
-<h1 align="center">Dharma Teja Samudrala</h1>
+# Hi, I'm Dharma Teja
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dharmatejasamudrala/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/dharmatejasamudrala/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://x.com/dharmateja03"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
-  <a href="mailto:dharma.samudrala21@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+I build full-stack products, AI-powered tools, and data systems.
+
+<p align="left">
+  <a href="https://github.com/dharmateja03?tab=followers">
+    <img src="https://img.shields.io/github/followers/dharmateja03?label=Followers&style=for-the-badge" alt="Followers" />
+  </a>
+  <a href="https://github.com/dharmateja03?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-164-181717?style=for-the-badge&logo=github" alt="Public Repos" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Shipping%20real%20products-0A66C2?style=for-the-badge" alt="Focus" />
 </p>
 
+## About
 
-### 🛠️ Tech Stack
+- Building practical products from idea to deployment
+- Interested in FinTech, AI workflows, and data engineering
+- Main stack: TypeScript, Python, Next.js, Prisma, Postgres
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,aws,docker,kubernetes,kafka,postgres,mongodb&theme=dark" />
+## Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </p>
 
----
-### Current Projects 
--[IndieFinance](https://www.indiefinance.app/) - Income Tracking + Tax Planning + 1099 Reconciliation. Your Quarterly Tax Autopilot.
--[UniBay] - Facebook MarketPlace for students by Students
----
-**Hackathons 2x Winner**
-- [COMS-Hackthon-25](https://github.com/dharmateja03/COMS-Hackthon-25) - 10x your team productivity ,reduce meetings -Best use of AI winner 
-- [Dandy-Hack-25](https://github.com/dharmateja03/Dandy-Hack-25) - Winner
-- [CalBot](https://github.com/dharmateja03/CalBot) — Take control of your Time
+## Featured Projects
 
-### 🚀 Projects
+| Project | What it is | Stack |
+|---|---|---|
+| [UniMarketPlace](https://github.com/dharmateja03/UniMarketPlace) | Student-only marketplace platform | Next.js, TypeScript, Prisma |
+| [Liquidation_Monitor](https://github.com/dharmateja03/Liquidation_Monitor) | Crypto liquidation intelligence system | Python, market data |
+| [PomoMe](https://github.com/dharmateja03/PomoMe) | Productivity timer application | TypeScript |
+| [MapSense](https://github.com/dharmateja03/MapSense) | Natural-language location intelligence | Python |
+| [ResumeTex](https://github.com/dharmateja03/ResumeTex) | Resume tooling project | TypeScript |
+| [memoryHQ](https://github.com/dharmateja03/memoryHQ) | Product/knowledge management app | TypeScript |
 
-**Go**
-- [gRPC-GoMicroservicesMesh](https://github.com/dharmateja03/gRPC-GoMicroservicesMesh) — Microservices with gRPC
-- [URL-Shortener](https://github.com/dharmateja03/URL-Shortener) — URL shortener service
-- [Golang-Learning](https://github.com/dharmateja03/Golang-Learning) — Go learning notes
+## GitHub Stats
 
-**Apps & Tools**
-- [ResumeTex](https://github.com/dharmateja03/ResumeTex) — Resume builder
-- [PomoMe](https://github.com/dharmateja03/PomoMe) — Pomodoro timer
-- [MapSense](https://github.com/dharmateja03/MapSense) — Natural language mapping
-- [KokoroAI](https://github.com/dharmateja03/KokoroAI) — AI meditation generator
-- [terminal-typist](https://github.com/dharmateja03/terminal-typist) — Terminal typing practice
-
-
-
-**DSA**
-- [LeetCode](https://github.com/dharmateja03/LeetCode) — 500+ solutions in Python
-
-
-**Data Engineering**
-- [reddit-ETL-Pipeline](https://github.com/dharmateja03/reddit-ETL-Pipeline) — Reddit → AWS → dbt → Power BI
-- [Liquidation_Monitor](https://github.com/dharmateja03/Liquidation_Monitor) — Real-time crypto liquidation prediction
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dharmateja03&color=blueviolet&style=flat" alt="Profile Views"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dharmateja03&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmateja03&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+## Current Focus
+
+- Scaling product quality across top repositories
+- Improving documentation, CI, and deployment readiness
+- Shipping fast and iterating from user feedback
