@@ -1,6 +1,6 @@
 # Hi, I'm Dharma Teja
 
-I build full-stack products, AI-powered tools, and data systems.
+I build full-stack products, AI-powered tools, and data systems. 2X Hackathon Winner
 
 <p align="left">
   <a href="https://github.com/dharmateja03?tab=followers">
