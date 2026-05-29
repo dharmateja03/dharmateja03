@@ -1,4 +1,4 @@
-# Hey I'm Dharma Teja — Builder · 2x Hackathon Winner
+# Hey I'm Dharma Teja
 
 <table>
 <tr>
@@ -13,7 +13,6 @@
 ---
 
 - ☕ **[Let's talk — AI, products, or just a coffee chat](https://cal.com/dharma-teja-samudrala-brlqhe/15min)**
-- 💼 **[Hiring? Let's talk](https://cal.com/dharma-teja-samudrala-brlqhe/15min)**
 
 </td>
 <td>
